@@ -1,12 +1,8 @@
-CTO of Anbiss, call intelligence that reconstructs what a call partner said without recording anyone. Live customer, 4,000 analysed calls, paid pilot.
+Building in stealth. Rust, TypeScript, NixOS, Cloudflare Workers, bun.
 
-## Highlights
+## What I can talk about
 
-**Anbiss** (anbiss.com) — call intelligence for B2B sales teams. Single party reconstruction, legal by design in Germany. Running pilot, 800 euros earned, contracts requested.
-
-**QiTech** — water cooling control software in Rust on NixOS and Ethercat at 16, hired and paid travel and hotel, 280 miles from home. Their public build week video documents my time there, over 30,000 views.
-
-**OpenOrg** — the agent native operating system for organizations. Work, Workflows and Workers modeled in TypeScript on Cloudflare Workers and Neon.
+**QiTech** (qitech.de) — water cooling control software in Rust on NixOS and Ethercat at 16, hired and paid travel and hotel, 280 miles from home. Their public build week video documents my time there, over 30,000 views.
 
 **RailStock** (Vossloh) — internal inventory solution, C#/.NET, native iOS QR scanning.
 
@@ -18,5 +14,3 @@ CTO of Anbiss, call intelligence that reconstructs what a call partner said with
 
 ## Stack
 Rust, TypeScript, NixOS, Cloudflare Workers, bun, Drizzle, Neon Postgres
-
-[anbiss.com](https://anbiss.com)
